@@ -1,6 +1,13 @@
 # 🚀 MathMate Insights: Complete Solution for Text-to-Math
 
 MathMate Insights is a powerful, user-friendly platform designed to bridge the gap between natural language input and complex mathematical computations. Leveraging state-of-the-art AI and natural language processing models, MathMate Insights translates text-based queries into mathematical solutions with precision and ease.
+---
+
+## Video Demo
+
+Here's a video demo of the project:
+
+https://github.com/user-attachments/assets/ca2a049a-7065-4fd6-8ca5-81af6ad07bc2
 
 ---
 
@@ -95,7 +102,7 @@ llm = ChatGroq(model="Gemma2-9b-It", groq_api_key=groq_api_key)
 ### 🔧 Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MathMate-Insights.git
+   git clone https://github.com/thatritikpatel/MathMate-Insights.git
    ```
 2. Navigate to the directory:
    ```bash
@@ -129,3 +136,12 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 🎉 Experience the future of math with MathMate Insights. Simplify, compute, and learn like never before! 🌟
 "# MathMate-Insights" 
+
+---
+
+## 📧 Contact
+
+For any queries or suggestions, feel free to reach out at 
+
+- Ritik Patel - [https://www.linkedin.com/in/thatritikpatel/]
+- Project Link: [https://github.com/thatritikpatel/MathMate-Insights]
